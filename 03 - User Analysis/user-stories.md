@@ -1,10 +1,16 @@
-## Scenario Template
+## User Story Template
 
+> A user story is a brief description of the user and her core need.
 
-> User scenario is a detailed description of what users do with the product and more importantly why they do it.
-> Scenarios are longer and more informative than a user story.
-> Keep the scenarios as close to reality as possible,
-> Very detaild
+> Always told from the Users perspective.
+
+> A user story is more concise
+
+##### Basic Example:
+_As a ..., I want ..._
+
+##### Advanced Example:
+_As a ..., I want ..., So that ..._
 
 A user scenario is the fictitious story of a user’s accomplishing an action or goal via a product. It focuses on a user’s motivations, and documents the process by which the user might use a design. User scenarios help designers understand what motivates users when they interact with a design – a useful consideration for ideation and usability testing.
 
@@ -24,21 +30,19 @@ Scenario mapping can be effective at many points during a project but there are 
 - Iteration – if you’re new to a product and you’re going to be involved in creating future iterations then it’s pretty easy to create scenario maps “on the fly” by observing users with the current product. (This can be done solo and doesn’t need the method below).
 - Usability testing – user scenarios can also be used to define which are the most important areas to test during usability testing and to provide guidance on how it should be done.
 
+Very often a user story is included in a user persona profile as a quote. But personas are more general so there might be multiple stories for a single user profile.
+
+### Summarize
+- they are short, but descriptive. User stories do not capture every detail about the user, her background, her ideas and motivations. Instead, they give an immediate understanding of what we are trying to accomplish with our product.
+- user stories define the user type. For instance in the sample user story mentioned above, we can clearly identify the user as a “frequent movie goer”. Note that we do not dive deeper into her personality, but just focus on the character traits relating to our product usage.
+- user stories outline the main need or problem that our product should solve. In our example, it is defined as “have all the information… in my smartphone”.
+
 –––––––––––
 
-### Example:
-A perfect user scenario comes in a way of a short story that clearly defines the context in which the [product/problem] is used.
-
-Some question to answer:
-- Who is the user of our product?
-- What does this user want to accomplish with our product?
-- How is this user going to achieve her goals?
-- Why does this user choose our product over other available options?
-- _Many many more questions. This is dependent on your problem_
 
 
 –––––––––––
 #### Further Reading:
-- [Scenarios - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/scenarios.html)
-- [Scenarios - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/user-scenarios)
-- [Just in Mind](https://www.justinmind.com/blog/user-personas-scenarios-user-stories-and-storyboards-whats-the-difference/)
+- [User Stories - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/scenarios.html)
+- [User Stories - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/user-scenarios)
+- [User Stories - Designmodo](https://designmodo.com/user-stories-ux/)

@@ -46,3 +46,4 @@ Very often a user story is included in a user persona profile as a quote. But pe
 - [User Stories - Usability.gov](https://www.usability.gov/how-to-and-tools/methods/scenarios.html)
 - [User Stories - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/user-scenarios)
 - [User Stories - Designmodo](https://designmodo.com/user-stories-ux/)
+- [Difference between Stories and Scenarios](https://www.stellman-greene.com/2009/05/03/requirements-101-user-stories-vs-use-cases/)
